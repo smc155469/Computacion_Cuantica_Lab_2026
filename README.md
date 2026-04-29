@@ -1,2 +1,2 @@
 # Practica-Computacion_Cuantica
-Este repositorio contiene los cuadernos de Jupyter y el material complementario necesario para la realización de la práctica de Computación Cuántica.
+Este repositorio contiene los cuadernos de Jupyter y el material complementario necesario para la realización de la práctica de Computación Cuántica. El guión original es propiedad del Departamento de Física Teórica de la Universidad Complutense de Madrid.
