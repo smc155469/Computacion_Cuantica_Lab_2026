@@ -1,2 +1,2 @@
-# Practica-Computacion_Cuantica
-Este repositorio contiene los cuadernos de Jupyter y el material complementario necesario para la realización de la práctica de Computación Cuántica. El guión original es propiedad del Departamento de Física Teórica de la Universidad Complutense de Madrid.
+# Computacion_Cuantica
+Este repositorio contiene los archivos del proyecto Educational Innovation Project UCM-UPM de computación cuántica. Los notebooks se descargaron al finalizar las diferentes prácticas. Además, se incluye una copia de la memoria entregada a la finalización del proyecto. Los autores de los notebooks son los profesores de dicho proyecto. En incluyen los notebooks con alguna modificación de líneas de código necesarias para la resolución de la práctica.
